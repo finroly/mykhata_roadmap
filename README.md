@@ -1,6 +1,8 @@
 # My Khata App Roadmap
 You can find here what new features we will add in new version of the App and ofcourse their timeline.
 
+If you want to suggest any feature, you can create a pull request or tell us on discord. We will definitely consider in next version 
+
 
 ## Roadmap
 
