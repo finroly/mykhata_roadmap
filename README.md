@@ -6,7 +6,7 @@ You can find here what new features we will add in new version of the App and of
 
 - Create charts for payments
 
-- Add option to track payments informations. 
+- Add option to track payments information. 
 
 - Add option to re-generate payments for pending payments
 
