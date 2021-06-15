@@ -16,5 +16,10 @@ You can find here what new features we will add in new version of the App and of
 
 
 
+## Support
+
+For support, email mykhata.app@gmail.com or join our Discord server https://discord.gg/vArjdu32.
+
+  
 
   
